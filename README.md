@@ -1,6 +1,6 @@
-# Gestor de Tareas - Frontend
+# 📚 Gestor de Tareas - Frontend
 
-## Instalación
+## 🚀🚀 Instalación
 
 ```bash
 git clone <repo>
